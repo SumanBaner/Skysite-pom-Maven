@@ -30,7 +30,7 @@ import java.util.logging.Filter;
 
 public class MethodRepository {
     private WebDriver driver;
-//test
+                   //test
 
     public void browserApplicationLaunch(String browserName, String url) throws InterruptedException {
 
